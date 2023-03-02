@@ -7,7 +7,7 @@ public class TesteEmpregado {
         e1.setTipo(0);
         e2.setTipo(1);
         e3.setTipo(2);
-        //testando commit git
+        //testando commit git aaaa
 
         e1.setSalario(2000);
         e2.setSalario(1800);
