@@ -2,11 +2,12 @@ import java.util.ArrayList;
 public class TesteEmpregado {
     public static void main(String[] args) {
         Empregado e1 = new Empregado(); // e1 = variavel de referencia
-        Empregado e2 = new Empregado(); // new dá origem a um objeto
+        Empregado e2 = new Empregado(); // new dá origem a um objeto 
         Empregado e3 = new Empregado();
         e1.setTipo(0);
         e2.setTipo(1);
         e3.setTipo(2);
+        //testando commit git
 
         e1.setSalario(2000);
         e2.setSalario(1800);
